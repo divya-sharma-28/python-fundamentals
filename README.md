@@ -23,7 +23,8 @@ This repository includes programs and examples covering:
 
 ## 🆕 Recently Added
 
-🔸 `add_two_numbers.py` – A simple program that takes two numbers from the user and prints their sum.
+🔸 `[python_practice_addition](https://github.com/divya-sharma-28/python-fundamentals/blob/main/BasicPythonPrograms/PythonPracticeAddition.ipynb)` – A simple program that takes two numbers from the user and prints their sum.
+🔸 `[python_practice_max_number](https://github.com/divya-sharma-28/python-fundamentals/blob/main/BasicPythonPrograms/PythonPracticeMaximumNumber.ipynb)` – A simple program that takes two numbers from the user and prints their sum.
 
 ---
 
