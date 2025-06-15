@@ -23,8 +23,9 @@ This repository includes programs and examples covering:
 
 ## 🆕 Recently Added
 
-🔸 [python_practice_addition](https://github.com/divya-sharma-28/python-fundamentals/blob/main/BasicPythonPrograms/PythonPracticeAddition.ipynb) – A simple program that takes two numbers from the user and prints their sum.  
-🔸 [python_practice_max_number](https://github.com/divya-sharma-28/python-fundamentals/blob/main/BasicPythonPrograms/PythonPracticeMaximumNumber.ipynb) – A simple program that takes two numbers from the user and prints their sum.
+🔸 [Addition](https://github.com/divya-sharma-28/python-fundamentals/blob/main/BasicPythonPrograms/PythonPracticeAddition.ipynb) – A simple program that takes two numbers from the user and prints their sum.  
+🔸 [Maximum Number](https://github.com/divya-sharma-28/python-fundamentals/blob/main/BasicPythonPrograms/PythonPracticeMaximumNumber.ipynb) – A simple program that takes two numbers from the user and prints max number.  
+🔸 [Factorial of a number](https://github.com/divya-sharma-28/python-fundamentals/blob/main/BasicPythonPrograms/PythonPracticeFactorialOfANumber.ipynb) – A simple program that calculates the factorial of a number using different methods.  
 
 ---
 
